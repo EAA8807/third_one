@@ -5,3 +5,5 @@ numpy
 matplotlib
 plotly>=5.0.0
 jupyter-client>=7.0.0
+fastparquet>=0.8.0
+pyarrow>=6.0.0
